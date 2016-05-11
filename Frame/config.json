@@ -1,0 +1,17 @@
+{
+  "menus": [
+    {"text":"readme.html"},
+    {"text":"Web"
+      ,"items":[
+        {"text":"AngularJS","items":[
+          {"text":"test.html","files":[]}
+        ]}
+    ]
+    },
+    {"text":"DSApp"
+    ,"items":[
+        {}
+    ]
+    }
+  ]
+}
